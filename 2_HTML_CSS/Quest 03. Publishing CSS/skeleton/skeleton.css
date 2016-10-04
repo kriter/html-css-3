@@ -71,7 +71,7 @@ footer {
 
 #github_logo {
     display:inline;
-    margin-right:20px;
+
 
 }
 
@@ -82,10 +82,7 @@ footer {
 
 #headlist {
     display:inline;
-    margin-top:0px;
-    margin-left:0px;
-    margin-right:0px;
-    margin-bottom:0px;
+
 
 }
 #headlist p a {
@@ -97,31 +94,28 @@ footer {
     color:powderblue;
 }
 #headlist1 {
-    padding:10px;
+
     display:inline;
     color:black;
 }
 #headlist2 {
-    padding:10px;
+
     display:inline;
     color:black;
 }
 #headlist3 {
-    padding:10px;
+
     display:inline;
     color:black;
 }
 #headlist4 {
-    padding:10px;
+
     display:inline;
     color:black;
 }
 #sign {
     display:inline;
-    margin-top:-16px;
-    margin-left:50px;
-    margin-right:50px;
-    margin-bottom:-30px;
+
 }
 
 
@@ -134,8 +128,8 @@ footer {
 }
 
 #knowre {
-    display: inline-block;
-    padding-right: 400px;
+    display: inline;
+    color:blue;
 }
 
 #watch {
