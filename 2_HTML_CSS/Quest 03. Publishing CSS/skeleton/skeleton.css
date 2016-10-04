@@ -42,7 +42,21 @@ strong{margin-right:10px; color:black;}
 
 /* 최동국 */
 
-/* 리세리 */
+/*!* 리세리 *!*/
+.main{
+    display:    inline-block;
+}
+aside {
+    display: inline-block;
+    float: right;
+    width: 150px;
+    background: LightGreen;
+}
+footer {
+    width:100%;
+    height:100px;
+}
+
 /* 리세리 */
 
 /* 김성하 */
