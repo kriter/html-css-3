@@ -44,6 +44,15 @@ body {
 /* 김성하 */
 
 /* 우진섭 */
+.bottom_mascotpic {
+    position: absolute;
+    top:38px;
+    left:50%;
+    margin-left: -12px;
+    font-size:24px;
+    color:#ccc;
+}
+
 .container {
     width: 980px;
     margin-right:auto;
