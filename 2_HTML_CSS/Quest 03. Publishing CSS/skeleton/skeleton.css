@@ -46,6 +46,88 @@ strong{margin-right:10px; color:black;}
 /* 리세리 */
 
 /* 김성하 */
+
+#header {
+    background-color:grey;
+    height:60px;
+    position:relative;
+
+}
+
+
+#github_logo {
+    display:inline;
+    margin-right:20px;
+
+}
+
+#search {
+    display:inline;
+    margin-right:20px;
+}
+
+#headlist {
+    display:inline;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-bottom:0px;
+
+}
+#headlist p a {
+    text-decoration:none;
+    color:black;
+
+}
+#headlist p a:hover {
+    color:powderblue;
+}
+#headlist1 {
+    padding:10px;
+    display:inline;
+    color:black;
+}
+#headlist2 {
+    padding:10px;
+    display:inline;
+    color:black;
+}
+#headlist3 {
+    padding:10px;
+    display:inline;
+    color:black;
+}
+#headlist4 {
+    padding:10px;
+    display:inline;
+    color:black;
+}
+#sign {
+    display:inline;
+    margin-top:-16px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom:-30px;
+}
+
+
+.main-header p a {
+    text-decoration:none;
+    color:blue;
+}
+.main-header p a:hover {
+    text-decoration:underline;
+}
+
+#knowre {
+    display: inline-block;
+    padding-right: 400px;
+}
+
+#watch {
+    display:inline;
+}
+
 /* 김성하 */
 
 /* 우진섭 */
