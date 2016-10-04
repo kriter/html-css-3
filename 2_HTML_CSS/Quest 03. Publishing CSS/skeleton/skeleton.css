@@ -41,6 +41,7 @@ body {
 /* 리세리 */
 
 /* 김성하 */
+
 #header {
     background-color:grey;
     height:60px;
@@ -114,14 +115,14 @@ body {
 }
 
 #knowre {
-    border: 1px solid black;
     display: inline-block;
+    padding-right: 400px;
 }
 
 #watch {
-    border: 1px solid black;
     display:inline;
 }
+
 /* 김성하 */
 
 /* 우진섭 */
