@@ -23,7 +23,9 @@ body {
 .main-detail{margin-left:400px; width:1100px; display:block;}
 #first{font-size:20px; color:gray;}
 #fbox{border:1px solid darkgrey;  display:block;  padding:10px;  margin-bottom:0px;}
-#linkinbox{margin-right:80px; margin-left:80px;}
+#linkinbox{margin-right:80px; margin-left:80px;color:black;}
+#linkinbox:hover{color: firebrick;}
+/*text-decoration:none 안했는데 왜 링크 밑줄 없음?*/
 #yellow{border:1px solid gray; margin-top:0px; padding:10px; background-color: yellow;}
 #img{height:30px; margin-top:0px;}
 #droplist{height:30px; width:130px; font-size:16px; color:darkgray; position:relative; bottom:10px; text-align:center; display:inline}
