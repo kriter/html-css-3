@@ -10,9 +10,8 @@ body {
 	/* TODO: 어떤 코드가 들어가야 할까요? */
 }
 
-.main_style {
-    margin-left: 125px;
-    margin-right: 125px;
+.main{
+
 }
 
 /* TODO: 또 어떤 코드들이 들어가야 할까요? */
@@ -20,7 +19,8 @@ body {
 
 
 /* 최동국 */
-#mid_left{margin-left:200px; width:1100px; display:block;}
+
+.main-detail{margin-left:400px; width:1100px; display:block;}
 #first{font-size:20px; color:gray;}
 #fbox{border:1px solid darkgrey;  display:block;  padding:10px;  margin-bottom:0px;}
 #linkinbox{margin-right:80px; margin-left:80px;}
@@ -45,7 +45,21 @@ body {
 
 /* 최동국 */
 
-/* 리세리 */
+/*!* 리세리 *!*/
+.main{
+    display:    inline-block;
+}
+aside {
+    display: inline-block;
+    float: right;
+    width: 150px;
+    background: LightGreen;
+}
+footer {
+    width:100%;
+    height:100px;
+}
+
 /* 리세리 */
 
 /* 김성하 */
@@ -60,7 +74,7 @@ body {
 
 #github_logo {
     display:inline;
-    margin-right:20px;
+
 
 }
 
@@ -71,10 +85,7 @@ body {
 
 #headlist {
     display:inline;
-    margin-top:0px;
-    margin-left:0px;
-    margin-right:0px;
-    margin-bottom:0px;
+
 
 }
 #headlist p a {
@@ -86,31 +97,28 @@ body {
     color:powderblue;
 }
 #headlist1 {
-    padding:10px;
+
     display:inline;
     color:black;
 }
 #headlist2 {
-    padding:10px;
+
     display:inline;
     color:black;
 }
 #headlist3 {
-    padding:10px;
+
     display:inline;
     color:black;
 }
 #headlist4 {
-    padding:10px;
+
     display:inline;
     color:black;
 }
 #sign {
     display:inline;
-    margin-top:-16px;
-    margin-left:50px;
-    margin-right:50px;
-    margin-bottom:-30px;
+
 }
 
 
@@ -123,8 +131,8 @@ body {
 }
 
 #knowre {
-    display: inline-block;
-    padding-right: 400px;
+    display: inline;
+    color:blue;
 }
 
 #watch {
